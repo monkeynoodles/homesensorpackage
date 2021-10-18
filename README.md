@@ -10,3 +10,5 @@ Materials:
 - 3D printed enclosure
 
 More details about this project can be found <a href="http://daveparsons.ca/room-sensor-package/">here</a>.
+
+NOTE: This repository is archived (read-only) because I'm not planning to actively maintain it; this was a small one-off personal project and doesn't really need any changes to fit my needs.
